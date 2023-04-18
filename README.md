@@ -1,6 +1,6 @@
 # social-media
 
-This would be social network project based on React, Node, Next
+This would be a social network project based on React, Node, Next, 
 MongoDB and Socketio.
 
 Building this project during my leisure hours.
